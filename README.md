@@ -15,6 +15,7 @@ Cypress - test framework
 3. install latest version of Python from (https://www.python.org/downloads/)
 
 4. Clone project 
+
 `git clone `
 
 5. In project root directory run
